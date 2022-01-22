@@ -19,4 +19,10 @@ public final class Constants {
         public static final int CAN_ADDRESS_RIGHT_SECONDARY_MOTOR = 4;
         public static final int CAN_ADDRESS_RIGHT_PRIMARY_MOTOR = 5;   
     }
+
+    public static final class ShooterConsts{
+        public static final int CAN_ADDRESS_FIRST_SHOOTER_MOTOR = 6;
+        public static final int CAN_ADDRESS_SECOND_SHOOTER_MOTOR = 7;
+        public static final int CAN_ADDRESS_THIRD_SHOOTER_MOTOR = 8;
+    }
 }
